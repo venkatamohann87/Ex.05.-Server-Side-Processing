@@ -151,10 +151,12 @@ def powerlamp(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](VSPAGE.png)
+<img width="1476" height="936" alt="Screenshot 2025-11-27 114507" src="https://github.com/user-attachments/assets/9599d54b-936f-4558-804a-6b9f0c2a6c95" />
+
 
 ## HOMEPAGE:
-![alt text](WEBPAGE.png)
+<img width="1478" height="961" alt="Screenshot 2025-11-27 114616" src="https://github.com/user-attachments/assets/ed73494c-3a5f-4c97-b188-5d9e885af4fc" />
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
